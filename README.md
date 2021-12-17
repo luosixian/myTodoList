@@ -1,3 +1,3 @@
 # myTodoList
 
-This project is an exercise of React.
+This is an exercise of React.
